@@ -1,0 +1,13 @@
+C:\Users\Merthan\source\repos\KampIntro\odev6\bin\Debug\netcoreapp3.1\homework6.exe
+C:\Users\Merthan\source\repos\KampIntro\odev6\bin\Debug\netcoreapp3.1\homework6.deps.json
+C:\Users\Merthan\source\repos\KampIntro\odev6\bin\Debug\netcoreapp3.1\homework6.runtimeconfig.json
+C:\Users\Merthan\source\repos\KampIntro\odev6\bin\Debug\netcoreapp3.1\homework6.runtimeconfig.dev.json
+C:\Users\Merthan\source\repos\KampIntro\odev6\bin\Debug\netcoreapp3.1\homework6.dll
+C:\Users\Merthan\source\repos\KampIntro\odev6\bin\Debug\netcoreapp3.1\homework6.pdb
+C:\Users\Merthan\source\repos\KampIntro\odev6\obj\Debug\netcoreapp3.1\homework6.csprojAssemblyReference.cache
+C:\Users\Merthan\source\repos\KampIntro\odev6\obj\Debug\netcoreapp3.1\homework6.AssemblyInfoInputs.cache
+C:\Users\Merthan\source\repos\KampIntro\odev6\obj\Debug\netcoreapp3.1\homework6.AssemblyInfo.cs
+C:\Users\Merthan\source\repos\KampIntro\odev6\obj\Debug\netcoreapp3.1\homework6.csproj.CoreCompileInputs.cache
+C:\Users\Merthan\source\repos\KampIntro\odev6\obj\Debug\netcoreapp3.1\homework6.dll
+C:\Users\Merthan\source\repos\KampIntro\odev6\obj\Debug\netcoreapp3.1\homework6.pdb
+C:\Users\Merthan\source\repos\KampIntro\odev6\obj\Debug\netcoreapp3.1\homework6.genruntimeconfig.cache

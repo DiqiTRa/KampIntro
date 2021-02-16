@@ -1,0 +1,13 @@
+C:\Users\Merthan\source\repos\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.exe
+C:\Users\Merthan\source\repos\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.deps.json
+C:\Users\Merthan\source\repos\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.runtimeconfig.json
+C:\Users\Merthan\source\repos\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.runtimeconfig.dev.json
+C:\Users\Merthan\source\repos\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.dll
+C:\Users\Merthan\source\repos\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.pdb
+C:\Users\Merthan\source\repos\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.AssemblyInfoInputs.cache
+C:\Users\Merthan\source\repos\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.AssemblyInfo.cs
+C:\Users\Merthan\source\repos\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.csproj.CoreCompileInputs.cache
+C:\Users\Merthan\source\repos\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.dll
+C:\Users\Merthan\source\repos\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.pdb
+C:\Users\Merthan\source\repos\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.genruntimeconfig.cache
+C:\Users\Merthan\source\repos\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.csprojAssemblyReference.cache
